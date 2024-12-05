@@ -1,0 +1,7 @@
+Wrote new keypair to ./key.json
+============================================================================
+pubkey: F4vCC6iSz8VtRWcumWazEkt94eQ5YooeJkNbLXnYmVcA
+============================================================================
+Save this seed phrase and your BIP39 passphrase to recover your new keypair:
+film attack lunar minor silent swim suspect heart thrive best moral february
+============================================================================
